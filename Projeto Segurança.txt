@@ -1,0 +1,15 @@
+CAMADAS
+Controler
+Service
+Repository
+Domain/Model
+
+MAVEN: Usado para dependencia do projetp,
+fazer empacotamento. Nesse projeto usou o Spring
+Shell
+
+.ideia: pasta da propia ide
+db:database é gerada quando usa o csv
+src: onde fica o código java
+.mvn: pasta do mavem
+rodar o .jar:java -jar "nome do projeto".jar
